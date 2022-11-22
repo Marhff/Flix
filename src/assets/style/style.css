@@ -1,0 +1,15 @@
+@import "global/reset.css";
+@import "global/color.css";
+@import "global/global.css";
+
+
+@import "componets/cardMovie.css";
+@import "componets/footer.css";
+@import "componets/header.css";
+
+
+@import "pages/contact.css";
+@import "pages/home.css";
+@import "pages/movie.css";
+
+

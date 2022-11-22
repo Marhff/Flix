@@ -1,0 +1,44 @@
+:root {
+
+    --collor-danger: #eb3d3d;
+    --collor-success: #32d957;
+    --collor-warning: #ffce52;
+  
+  
+    --font-weight-bold: 700;
+    --font-weight-semibold: 600;
+    --font-weight-medium: 500;
+  
+    --primary-color: #001fcd;
+    --title-color: #1B1C1C;
+    --text-color: #ebebeb;
+    --body-color: #212121;
+    --button: #b0b0b0;
+    --button-hover: #919191;
+    --link-hover: #1a1a1a;
+    --link-active: #171515;
+    --scrollup-hover: #00CDAC;
+    --scrollbar: #00CDAC;
+    --white: #f7f7f7;
+    --gray: #a3a3a3;
+    --black: #171515;
+    --cardbg: #f0f5f0;
+    --cardcbg: #fff;
+  }
+  
+  
+  .text-linear {
+    background: linear-gradient(to right, #02AAB0 0%, #00CDAC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .text-linear:hover {
+    background: linear-gradient(to right, #02AAB0 0%, #02AAB0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .bg-linear {
+    background: linear-gradient(to right, #02AAB0, #00CDAC);
+  }
